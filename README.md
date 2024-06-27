@@ -1,9 +1,8 @@
+![logo](https://github.com/deepak0019/deepak0019/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Deepak Dangi</h1>
 <h3 align="center">I am a Passionate MERN developer and a competitive programmer, dedicated to crafting seamless web applications and solving complex problems with efficiency and precision. </h3>
-![logo](https://github.com/deepak0019/deepak0019/blob/main/Banner1.png)
 
 🔭 I’m Currently pursuing a degree in Computer Science Engineering, with a strong focus on mastering core fundamentals.
-
 🌱 I’m  Currently enhancing development and competitive programming skills.
 
 <div align="center">
