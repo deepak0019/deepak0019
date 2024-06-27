@@ -1,3 +1,4 @@
+![logo](https://github.com/deepak0019/deepak0019/blob/main/Banner1.png)
 <h1 align="center">Hi 👋, I'm Deepak Dangi</h1>
 <h3 align="center">I am a Passionate MERN developer and competitive programmer. </h3>
 
